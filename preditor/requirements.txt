@@ -1,7 +1,0 @@
-torch==2.2.1
-torchvision==0.17.1
-pillow==10.2.0
-dalle2_pytorch==1.0.3
-pydantic==1.10.9
-diffusers==0.27.2
-transformers==4.38.2
